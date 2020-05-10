@@ -4,7 +4,7 @@
 
 
 
-Zawartość: <br>
+**Zawartość:** <br>
 1   Wprowadzenie do Pandas <br>
 2a  Pandas w akcji - zadania <br>
 2b  Pandas w akcji - rozwiązania <br>
