@@ -4,7 +4,7 @@
 
 
 
-**Zawartość:** 
+**Zawartość:** <br>
 &nbsp;1\. Wprowadzenie do Pandas <br>
 &nbsp;2\. Pandas w akcji <br>
 &nbsp;&nbsp;a) zadania <br>
