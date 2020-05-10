@@ -1,8 +1,5 @@
 # Wprowadzenie do Pandas
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lsawaniewski/pandas_basics_workshop/master)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lsawaniewski/pandas_basics_workshop/blob/master/1_Wprowadzenie_do_Pandas.ipynb)
-
-
 
 **Zawartość:** <br>
 &nbsp;1\. Wprowadzenie do Pandas <br>
