@@ -4,8 +4,9 @@
 
 
 
-**Zawartość:** <br>
-1   Wprowadzenie do Pandas <br>
-2a  Pandas w akcji - zadania <br>
-2b  Pandas w akcji - rozwiązania <br>
-3   Więcej o Pandas <br>
+**Zawartość:** 
+&nbsp;1\. Wprowadzenie do Pandas <br>
+&nbsp;2\. Pandas w akcji <br>
+&nbsp;&nbsp;a) zadania <br>
+&nbsp;&nbsp;b) rozwiązania <br>
+&nbsp;3\.   Więcej o Pandas <br>
